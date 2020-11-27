@@ -3,7 +3,7 @@ package sockets;
 import java.io.IOException;
 import java.util.Scanner;
 
-import sockets.Cliente;
+//import sockets.Cliente;
 
 
 //Clase principal que hará uso del cliente

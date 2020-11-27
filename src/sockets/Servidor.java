@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import sockets.Conexion;
+//import sockets.Conexion;
 
 public class Servidor extends Conexion //Se hereda de conexión para hacer uso de los sockets y demás
 {

@@ -1,7 +1,7 @@
 package sockets;
 
 import java.io.IOException;
-import sockets.Servidor;
+//import sockets.Servidor;
 
 
 //Clase principal que hará uso del servidor
